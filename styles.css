@@ -1,13 +1,9 @@
 #box{
-    width: 100%;
-    height:500px;
-    
-    text-align: center;
-    color: rgba(255,255,255);
-    font-size: x-small;   
-    background-image: url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");
-    background-size: cover ;
-    
-    
-    
+     width: 100%;
+  height: 400px;
+	color: rgba(255,255,255);
+  background-image: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
